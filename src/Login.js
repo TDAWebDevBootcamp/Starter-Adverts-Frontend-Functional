@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 function Login(props) {
   super(props);
-  const [disabled, cDisabled] = useState(false);
+  const [disabled, changeDisabled] = useState(false);
 
   const submitHandler = (e) => {
     console.log("submit");
