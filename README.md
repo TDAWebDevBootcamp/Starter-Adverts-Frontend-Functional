@@ -1,4 +1,5 @@
 # Ads App Starter Code
 
-Starter code for the Mongo Session
+Starter code for the Authorisation Session
 
+Copyright (c) 2022 The Developer Academy Ltd
