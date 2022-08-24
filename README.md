@@ -1,5 +1,5 @@
 # Ads App Starter Code
 
-Starter code for the Authorisation Session
+Frontend Starter code for the Authorisation Session
 
 Copyright (c) 2022 The Developer Academy Ltd
